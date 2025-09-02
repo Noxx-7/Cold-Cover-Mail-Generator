@@ -35,7 +35,7 @@ app/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/ai-cold-email-generator.git
+git clone https://github.com/Noxx-7/Cold-Cover-Mail-Generator.git
 cd ai-cold-email-generator/app
 ```
 
