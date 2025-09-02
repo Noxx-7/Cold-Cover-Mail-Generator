@@ -7,3 +7,8 @@ python-dotenv
 langchain
 langchain-core
 langchain-groq
+python-docx
+chromadb
+pandas
+uuid
+beautifulsoup4
