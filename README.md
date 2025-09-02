@@ -72,7 +72,7 @@ The app will be available at:
 ## 🔄 How It Works (Flowchart)
 Below is the flow of how the app works:
 
-![Flowchart](cold_email_flowchart_black.png)
+![Flowchart](cold_email_flowchart.png)
 
 ---
 
