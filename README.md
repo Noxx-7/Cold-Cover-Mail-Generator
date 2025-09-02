@@ -77,7 +77,7 @@ Below is the flow of how the app works:
 ---
 
 ## 📸 Demo
-(Add screenshots or a GIF here once you run the app)
+##<img width="1887" height="837" alt="redbull" src="https://github.com/user-attachments/assets/531279c7-b61f-4f2f-a5e1-7399383fc328" />
 
 ---
 
